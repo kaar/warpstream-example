@@ -1,5 +1,7 @@
 # Warpstream Example
 
+* [Docs](https://docs.warpstream.com/warpstream/)
+
 ## Install
 
 ### Install Script
